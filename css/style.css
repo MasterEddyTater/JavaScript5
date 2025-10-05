@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(85, 19, 50);
+}
+#paragraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lavender, a:visited, p {
+    color:rgb(239, 194, 250);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Light_Blue, a:link {
+    color: rgb(69, 207, 231);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
